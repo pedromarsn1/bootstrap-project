@@ -1,0 +1,56 @@
+body{
+    font-size: 18px;
+    font-family: "Arial";
+}
+
+
+.navbar{
+    background-color: rgb(63, 62, 63);
+   padding-left: 30px;
+}
+
+.quem-somos{
+    background-color: slategray;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.especi{
+padding-top: 20px;
+font-size: 20px;
+}
+
+.applewatch{
+    background-color: rgb(85, 84, 84);
+}
+
+.row{
+    text-align: center;
+    background-color: lightslategrey;
+}
+
+.iphone-onze{
+    background-color: rgb(37, 94, 91);
+    
+}
+
+.col-lg-4{
+    padding-top: 20px;
+    background-color: lightslategrey;
+    
+
+}
+
+.row2{
+    background-color: lightslategrey;
+    padding-bottom: 25px;
+    padding-top: 30px;
+}
+
+.bg-footer{
+    background-color: rgb(129, 100, 49);
+    
+}
